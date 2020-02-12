@@ -1,10 +1,15 @@
 # -
 收集的医学文章投稿要求
 
+### CONSORT for randomized controlled trials
+
+[CONSORT website](http://www.consort-statement.org/)
+
 ### TREND-For nonrandomized trials 
 
 [Transparent Reporting of Evaluations with Nonrandomized Design](https://www.cdc.gov/trendstatement/index.html)
 
+[TREND PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/trendstatement_ajph_mar2004_trendstatement.pdf)
 
 
 
