@@ -33,11 +33,13 @@
 
 ### 另一个临床试验reporting guidelines Equator network
 
+[Equator network website](https://www.equator-network.org/reporting-guidelines/)
+
+
 ### 系统回顾
+
 [PRISMA](http://www.prisma-statement.org/)
 
-
-[Equator network website](https://www.equator-network.org/reporting-guidelines/)
 
 
 ### 关于临床试验注册和数据共享要求 International Committee of Medical Journal Editors (ICMJE)
@@ -55,9 +57,7 @@
 
 [ARRIVE guidelines PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/NC3Rs%20ARRIVE%20Guidelines%202013.pdf)
 
-### 系统回顾指南
 
-[PRISMA](http://www.prisma-statement.org/)
 
 
 
