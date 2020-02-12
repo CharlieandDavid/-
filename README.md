@@ -57,6 +57,8 @@
 
 [ARRIVE guidelines PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/NC3Rs%20ARRIVE%20Guidelines%202013.pdf)
 
+## COPE
+[COPE Code of Conduct and Best Practice Guidelines](https://publicationethics.org/guidance/Guidelines)
 
 
 
