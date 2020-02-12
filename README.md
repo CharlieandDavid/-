@@ -45,10 +45,15 @@
 [The ICMJE’s clinical trial registration policy](http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html)
 
 
-### International Clinical Trials Registry Platform (ICTRP) 临床试验注册平台
+###  临床试验注册平台 International Clinical Trials Registry Platform (ICTRP)
 
 [WHO临床试验注册平台](https://www.who.int/ictrp/network/primary/en/)
 
+### 关于动物实验 Studies involving animals
+
+[ARRIVE guidelines](https://www.nc3rs.org.uk/arrive-guidelines)
+
+[ARRIVE guidelines PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/NC3Rs%20ARRIVE%20Guidelines%202013.pdf)
 
 ### 系统回顾指南
 
