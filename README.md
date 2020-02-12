@@ -33,6 +33,10 @@
 
 ### 另一个临床试验reporting guidelines Equator network
 
+### 系统回顾
+[PRISMA](http://www.prisma-statement.org/)
+
+
 [Equator network website](https://www.equator-network.org/reporting-guidelines/)
 
 
