@@ -11,6 +11,8 @@
 
 [Helsinki Declaration 2018](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)
 
+[WHO definition of clinical trials](https://www.who.int/ictrp/en/)
+
 ### 随机对照实验 CONSORT for randomized controlled trials 
 
 [CONSORT website](http://www.consort-statement.org/)
