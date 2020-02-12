@@ -5,6 +5,8 @@
 
 [CONSORT website](http://www.consort-statement.org/)
 
+[CONSORT 2010 BMJ PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/CONSORT%202010%20Statement%20(BMJ).pdf)
+
 ### TREND-For nonrandomized trials 
 
 [Transparent Reporting of Evaluations with Nonrandomized Design](https://www.cdc.gov/trendstatement/index.html)
