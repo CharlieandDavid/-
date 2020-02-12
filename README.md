@@ -17,7 +17,7 @@
 
 [CONSORT website](http://www.consort-statement.org/)
 
-[CONSORT 2010 BMJ PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/CONSORT%202010%20Statement%20(BMJ).pdf)
+[CONSORT 2010 BMJ PDF](./medical-manuscript-requirement/blob/master/CONSORT%202010%20Statement%20(BMJ).pdf)
 
 [CONSORT 2010 Explanation and Elaboration - BMJ -PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/CONSORT%202010%20Explanation%20and%20Elaboration%20-%20BMJ.pdf)
 
