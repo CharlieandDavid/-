@@ -17,13 +17,14 @@
 
 [CONSORT website](http://www.consort-statement.org/)
 
-[CONSORT 2010 BMJ PDF](./medical-manuscript-requirement/blob/master/CONSORT%202010%20Statement%20(BMJ).pdf)
 
-[CONSORT 2010 Explanation and Elaboration - BMJ -PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/CONSORT%202010%20Explanation%20and%20Elaboration%20-%20BMJ.pdf)
+[CONSORT 2010 BMJ PDF](./CONSORT%202010%20Statement%20(BMJ).pdf)
 
-[CONSORT 2010 checklist](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/CONSORT%202010%20Checklist.pdf)
+[CONSORT 2010 Explanation and Elaboration - BMJ -PDF](./CONSORT%202010%20Explanation%20and%20Elaboration%20-%20BMJ.pdf)
 
-[CONSORT 2010 Flow Diagram](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/CONSORT%202010%20Flow%20Diagram.pdf)
+[CONSORT 2010 checklist](./CONSORT%202010%20Checklist.pdf)
+
+[CONSORT 2010 Flow Diagram](./CONSORT%202010%20Flow%20Diagram.pdf)
 
 ### 非随机对照试验 TREND-For nonrandomized trials 
 
