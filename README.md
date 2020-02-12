@@ -1,6 +1,12 @@
 # -
 收集的医学文章投稿要求
 
+### 格式要求
+
+[Uniform Requirements for Manuscripts Submitted to Biomedical Journals from the International Committee of Medical Journal Editors (ICMJE)](http://www.icmje.org/recommendations/)
+
+[ICMJE recommendations 2019 PDF](https://github.com/CharlieandDavid/medical-manuscript-requirement/blob/master/icmje-recommendations.pdf)
+
 ### CONSORT for randomized controlled trials
 
 [CONSORT website](http://www.consort-statement.org/)
